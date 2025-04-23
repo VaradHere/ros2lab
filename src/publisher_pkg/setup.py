@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             "draw_circle = publisher_pkg.simple:main",
-            "pose_subscriber = publisher_pkg.publish:main"
+            "pose_subscriber = publisher_pkg.publish:main",
+            "draw_rect = publisher_pkg.rectangle_publisher:main"
         ],
     },
 )
