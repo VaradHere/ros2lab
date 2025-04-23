@@ -1,0 +1,9 @@
+{
+  "package_name": "tutorial_interfaces",
+  "non_idl_tuples": [
+    "/home/varad/roslab_ese/src/tutorial_interfaces:msg/Num.msg",
+    "/home/varad/roslab_ese/src/tutorial_interfaces:msg/Sphere.msg",
+    "/home/varad/roslab_ese/src/tutorial_interfaces:srv/AddThreeInts.srv",
+    "/home/varad/roslab_ese/src/tutorial_interfaces:srv/SetVelocityTurtle.srv"
+  ]
+}

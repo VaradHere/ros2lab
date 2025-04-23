@@ -1,0 +1,41 @@
+[0.503s] Invoking command in '/home/varad/roslab_ese/src/ti_custom_msg': PYTHONPATH=/home/varad/roslab_ese/build/ti_custom_msg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ti_custom_msg build --build-base /home/varad/roslab_ese/build/ti_custom_msg/build install --record /home/varad/roslab_ese/build/ti_custom_msg/install.log --single-version-externally-managed install_data
+[0.643s] running egg_info
+[0.643s] creating ../../build/ti_custom_msg/ti_custom_msg.egg-info
+[0.643s] writing ../../build/ti_custom_msg/ti_custom_msg.egg-info/PKG-INFO
+[0.643s] writing dependency_links to ../../build/ti_custom_msg/ti_custom_msg.egg-info/dependency_links.txt
+[0.643s] writing entry points to ../../build/ti_custom_msg/ti_custom_msg.egg-info/entry_points.txt
+[0.643s] writing requirements to ../../build/ti_custom_msg/ti_custom_msg.egg-info/requires.txt
+[0.644s] writing top-level names to ../../build/ti_custom_msg/ti_custom_msg.egg-info/top_level.txt
+[0.644s] writing manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[0.662s] reading manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[0.663s] writing manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[0.663s] running build
+[0.663s] running build_py
+[0.663s] creating /home/varad/roslab_ese/build/ti_custom_msg/build
+[0.663s] creating /home/varad/roslab_ese/build/ti_custom_msg/build/lib
+[0.663s] creating /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg
+[0.664s] copying ti_custom_msg/Subscriber.py -> /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg
+[0.664s] copying ti_custom_msg/__init__.py -> /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg
+[0.664s] copying ti_custom_msg/Publisher.py -> /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg
+[0.664s] running install
+[0.664s] running install_lib
+[0.665s] creating /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg
+[0.665s] copying /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg/Subscriber.py -> /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg
+[0.665s] copying /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg/__init__.py -> /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg
+[0.665s] copying /home/varad/roslab_ese/build/ti_custom_msg/build/lib/ti_custom_msg/Publisher.py -> /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg
+[0.671s] byte-compiling /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg/Subscriber.py to Subscriber.cpython-38.pyc
+[0.674s] byte-compiling /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg/__init__.py to __init__.cpython-38.pyc
+[0.674s] byte-compiling /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg/Publisher.py to Publisher.cpython-38.pyc
+[0.675s] running install_data
+[0.676s] creating /home/varad/roslab_ese/install/ti_custom_msg/share/ament_index
+[0.676s] creating /home/varad/roslab_ese/install/ti_custom_msg/share/ament_index/resource_index
+[0.677s] creating /home/varad/roslab_ese/install/ti_custom_msg/share/ament_index/resource_index/packages
+[0.678s] copying resource/ti_custom_msg -> /home/varad/roslab_ese/install/ti_custom_msg/share/ament_index/resource_index/packages
+[0.678s] copying package.xml -> /home/varad/roslab_ese/install/ti_custom_msg/share/ti_custom_msg
+[0.678s] running install_egg_info
+[0.679s] Copying ../../build/ti_custom_msg/ti_custom_msg.egg-info to /home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages/ti_custom_msg-0.0.0-py3.8.egg-info
+[0.679s] running install_scripts
+[0.689s] Installing listner script to /home/varad/roslab_ese/install/ti_custom_msg/lib/ti_custom_msg
+[0.689s] Installing talker script to /home/varad/roslab_ese/install/ti_custom_msg/lib/ti_custom_msg
+[0.689s] writing list of installed files to '/home/varad/roslab_ese/build/ti_custom_msg/install.log'
+[0.703s] Invoked command in '/home/varad/roslab_ese/src/ti_custom_msg' returned '0': PYTHONPATH=/home/varad/roslab_ese/build/ti_custom_msg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/varad/roslab_ese/install/ti_custom_msg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ti_custom_msg build --build-base /home/varad/roslab_ese/build/ti_custom_msg/build install --record /home/varad/roslab_ese/build/ti_custom_msg/install.log --single-version-externally-managed install_data
